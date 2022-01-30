@@ -1,0 +1,29 @@
+table,
+tr,
+td {
+  border: 2px solid whitesmoke;
+}
+td {
+  padding: 5px;
+}
+table {
+  text-align: center;
+  margin: auto;
+  background-color: rgb(185, 121, 121);
+  color: black;
+}
+body {
+  background-color: rgb(121, 163, 37);
+}
+#con12 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+#search,
+#btn {
+  padding: 5px;
+}
+td {
+  padding: 9px;
+}
